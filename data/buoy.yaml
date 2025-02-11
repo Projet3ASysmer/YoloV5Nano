@@ -1,0 +1,7 @@
+path: data/images
+train: train
+val: valid
+
+
+names:
+  0: buoy
